@@ -76,5 +76,5 @@ group :production do
 end
 
 gem 'rubyzip','>= 1.2.1'
-gem 'axlsx'
+gem 'caxlsx'
 gem 'caxlsx_rails'
